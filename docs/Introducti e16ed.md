@@ -97,4 +97,3 @@ So, I am going to drag the logo out of the Flex. Resize the div just to fit the 
 
 Next,  drop the image back into the container. Looks neat I'd say. If you'd prefer to fine tune, you can make it even consistent by adding flexbox to the container. And voila, we have a header.
 
-[Final-Introduction to CodeDesign.mov](Introducti%20e16ed/Final-Introduction_to_CodeDesign.mov)
