@@ -1,3 +1,6 @@
+---
+sidebar_position: 2
+---
 # Introduction to builder
 
 Welcome to Codedesign. In this video tutorial, we'll help you get started with the tool.
